@@ -1,1 +1,2 @@
 ssh-keygen -t rsa -b 4096 -C "Khokhlov.Artem@gmail.com"
+sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
